@@ -1,0 +1,9 @@
+langid
+llama-index==0.8.22
+llama-cpp-python==0.1.78
+langchain==0.0.268
+pandas
+flask
+translate==3.6.1
+langid==1.1.6
+deep_translator==1.10.1
