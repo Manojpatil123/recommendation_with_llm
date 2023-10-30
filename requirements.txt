@@ -1,7 +1,7 @@
 langid
 llama-index==0.8.22
 llama-cpp-python==0.1.78
-langchain==0.0.268
+langchain==0.0.325
 pandas
 flask
 translate==3.6.1
