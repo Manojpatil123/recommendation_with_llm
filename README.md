@@ -8,4 +8,4 @@
 
 ###this project will support english and spnish languages
 
-###similarly you can develop recommendations system for any usecase.
+###similarly you can develop recommendations system for any usecase
